@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_default">10dp</dimen>
+    <dimen name="fab_margins">30dp</dimen>
+    <dimen name="timer_text_size">30sp</dimen>
+</resources>
